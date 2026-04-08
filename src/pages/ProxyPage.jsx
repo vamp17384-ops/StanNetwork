@@ -49,7 +49,7 @@ export default function ProxyPage() {
         <span className={styles.heroLabel}>// PROXY</span>
         <h1 className={styles.heroTitle}>Browse<br />Unrestricted.</h1>
         <p className={styles.heroSub}>
-          Access any site, anywhere. A curated list of top-tier proxy tools.
+          Dont let them block you.
         </p>
       </div>
 
