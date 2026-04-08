@@ -47,7 +47,7 @@ export default function ProxyPage() {
     <div className={styles.page}>
       <div className={styles.hero}>
         <span className={styles.heroLabel}>// PROXY</span>
-        <h1 className={styles.heroTitle}>Browse<br />Unrestricted.</h1>
+        <h1 className={styles.heroTitle}>Browse<br />Unblocked.</h1>
         <p className={styles.heroSub}>
           Dont let them block you.
         </p>
