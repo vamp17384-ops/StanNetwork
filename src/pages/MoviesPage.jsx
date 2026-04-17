@@ -11,11 +11,11 @@ import styles from './Page.module.css'
  */
 const MOVIES = [
   {
-    title: 'Stremio',
-    subtitle: 'A modern media center with addons for movies and series.',
-    tag: 'Streaming',
-    meta: 'Free · Cross-platform',
-    href: 'https://www.stremio.com',
+    title: 'New Out',
+    subtitle: 'New movies that came out!',
+    tag: 'mp4',
+    meta: 'Free · Mobile Support',
+    href: 'https://drive.google.com/drive/folders/1QYKR43auTUUrDLsxAA06IGNMlG4gMVjY?usp=sharing',
     badge: 'BEST',
   },
   {
