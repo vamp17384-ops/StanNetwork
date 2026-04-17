@@ -19,11 +19,11 @@ const MOVIES = [
     badge: 'BEST',
   },
   {
-    title: 'Tubi',
-    subtitle: 'Free, legal, ad-supported streaming with thousands of titles.',
-    tag: 'Free & Legal',
-    meta: 'Ad-supported · No account needed',
-    href: 'https://tubitv.com',
+    title: 'Under Construction',
+    subtitle: 'Coming soon',
+    tag: '',
+    meta: '',
+    href: '',
   },
   {
     title: 'Pluto TV',
