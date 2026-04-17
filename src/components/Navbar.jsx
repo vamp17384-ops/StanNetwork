@@ -10,8 +10,8 @@ export default function Navbar({ activeTab, onTabChange }) {
   return (
     <header className={styles.header}>
       <div className={styles.logo}>
-        <span className={styles.logoMark}>N</span>
-        <span className={styles.logoText}>EXUS</span>
+        <span className={styles.logoMark}>Stan</span>
+        <span className={styles.logoText}>Network</span>
       </div>
 
       <nav className={styles.nav} role="navigation" aria-label="Main tabs">
