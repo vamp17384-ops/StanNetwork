@@ -10,7 +10,7 @@ export default function Navbar({ activeTab, onTabChange }) {
   return (
     <header className={styles.header}>
       <div className={styles.logo}>
-        <span className={styles.logoMark}>Comrade</span>
+        <span className={styles.logoMark}>C</span>
         <span className={styles.logoText}>System</span>
       </div>
 
