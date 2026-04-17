@@ -64,7 +64,7 @@ export default function MoviesPage() {
         <span className={styles.heroLabel}>// MOVIES</span>
         <h1 className={styles.heroTitle}>Watch<br />Everything.</h1>
         <p className={styles.heroSub}>
-          Stream movies and shows — curated free and legal sources.
+          Pick from our finest selection of totaly legal movies.
         </p>
       </div>
 
