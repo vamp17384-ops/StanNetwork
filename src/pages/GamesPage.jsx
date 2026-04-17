@@ -11,11 +11,11 @@ import styles from './Page.module.css'
  */
 const GAMES = [
   {
-    title: 'Under Construction',
-    subtitle: 'Coming soon',
+    title: 'g+',
+    subtitle: 'Lots of games',
     tag: '',
     meta: '',
-    href: '',
+    href: 'https://sites.google.com/classroom.center/view-1/',
   },
   { 
     title: 'Under Construction',
